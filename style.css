@@ -308,8 +308,15 @@ section {
 .matome {
 	border-radius: 28% 72% 25% 75% / 68% 34% 66% 32%;
 	background-color: var(--base);
-	padding: 10px;
+	padding: 20px;
+}
 
+.matome p {
+		font-size: 0.8rem;
+}
+
+.saigo h4 {
+	text-align: center;
 }
 
 .migi {
@@ -592,7 +599,6 @@ footer p {
 		font-size: 1.2rem;
 		margin: 0 0 30px 0;
 
-		background-color: #686868;
 	}
 
 	.gaiyobun1, 
